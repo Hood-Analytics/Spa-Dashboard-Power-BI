@@ -26,7 +26,8 @@ Total Sales by Month: This tile displaying the total sales per month. Once a ful
 Total Sales by Client: This tile allows visibility into the most lucrative spa clients. Better understanding of comparative client expenditure can lead to greater overall spa profits.
 
 Products:
-Service Provided by Total Sales: This tile allows visibility into the overall contributions of individual spa services. Although not surprising to find that facials comprise the majority of spa earnings, a comparison of the other categories can give important insights.\
+Service Provided by Total Sales: This tile allows visibility into the overall contributions of individual spa services. Although not surprising to find that facials comprise the majority of spa earnings, a comparison of the other categories can give important insights.
+
 Product Sales by Client: This tile allows visibility into individual spa client purchases. Better understanding of comparative client expenditure on products leads to greater overall spa profits.
 Total Product Sales: This tile allows visibility into the overall contributions of spa product sales. A comparison between categories can give important inventory management insights.
 
